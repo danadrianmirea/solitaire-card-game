@@ -1,5 +1,5 @@
 ![logo](https://online-solitaire.com/presskit/solitaire_icon.png) Play Solitaire, FreeCell and Spider Solitaire
-======================================================================
+==================================================================================================================================
 
 ![Screenshoot](https://online-solitaire.com/presskit/solitaire_gameplay_hero.jpg)
 
