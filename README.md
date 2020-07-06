@@ -1,24 +1,10 @@
-![logo](http://codinn.com/static/img/game2048_128x128.png) 2048+
+![logo](https://online-solitaire.com/presskit/solitaire_icon.png) Play Solitaire, FreeCell and Spider Solitaire
 ======================================================================
 
-![Screenshoot](http://cdn.altrn.tv/s/80cb7c99-fac1-e311-b64e-002590a05f5f_3_full.jpg)
+![Screenshoot](https://online-solitaire.com/presskit/solitaire_gameplay_hero.jpg)
 
-[2048+](https://itunes.apple.com/us/app/2048+/id855231036?mt=12) is based on [2048](http://gabrielecirulli.github.io/2048/), created by Gabriele Cirulli, which was based on 1024 by Veewo Studio and conceptually similar to Threes by Asher Vollmer. 
+Appreciate a cutting edge and a la mode form of this exemplary game which is at long last discharged for Windows, Mac, and Linux. Enjoy a reprieve from your regular day to day existence with this great variant of Solitaire. Play Klondike, Spider, and FreeCell however much you might want. Go to https://online-solitaire.com/#download to download our free solitaire game. 
 
-How to play: 
+We've taken the ongoing interaction you know and love from Microsoft Solitaire and made a cutting edge adaptation, with delightful illustrations and simple interactivity. You can download the game or play online at https://online-solitaire.com/. Klondike, Spider, and Freecell are accessible with the expectation of complimentary at this point. 
 
-1. Swipe to move the tiles. 
-2. When two tiles with the same number touch, they merge into one. 
-3. Swipe until you get a tile that has a value of 2048. 
-
-2048+ created with following enhancements: 
-
-* You can swipe the tiles with Magic Trackpad 
-* Magic Mouse is also supported 
-* Sound effect 
-* Immersive Full-Screen mode 
-* Playing a game offline 
-
-Join the numbers and get to the 2048 tile!
-
-Sponsor our development, [Buy it on the Mac App Store](https://itunes.apple.com/us/app/2048+/id855231036?mt=12)
+The game highlights boundless free games, undo's, and indicates. Switch sound, set autoplay, turn 3 cards or turn 1 card at once, and significantly more under settings. 
